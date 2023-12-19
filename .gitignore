@@ -1,3 +1,7 @@
+# These are all tests for now and don't need to be tracked.
+*.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
